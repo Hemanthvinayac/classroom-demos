@@ -6,6 +6,7 @@ public class Program02 {
 
 	public static void main(String[] args) {
 		int[][] nums = {
+				{133, 567},
 				{1,2,5},
 				{234, 546, 76,89, 7567},
 				{545,66,7},
